@@ -2,4 +2,4 @@
 
 This is my Git Repository
 <br>
-Author - Manjunath Bhat
+Author --Manjunath Bhat 
